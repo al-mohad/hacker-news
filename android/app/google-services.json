@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301834560689",
+    "project_id": "hacker-news-de904",
+    "storage_bucket": "hacker-news-de904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301834560689:android:bfdc6178def5ca25f5ee90",
+        "android_client_info": {
+          "package_name": "com.almohad.hacker_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301834560689-hheraeokrm4nob8ikq6qtd4vj5kla08e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC_bcWlPT-o-Vw5GsUTEeSsOll1J6mUX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301834560689-hheraeokrm4nob8ikq6qtd4vj5kla08e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

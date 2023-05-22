@@ -107,7 +107,7 @@ class _ApiClient implements ApiClient {
     )
         .compose(
           _dio.options,
-          'topstories .json',
+          'topstories.json',
           queryParameters: queryParameters,
           data: _data,
         )

@@ -88,3 +88,7 @@ The app also relies on various open-source packages and libraries. We express ou
 For any questions or issues, please contact the project maintainers or open an issue on the GitHub repository.
 
 Happy browsing and contributing to the Hacker News App!
+
+## Distribution
+
+- [Firebase App Distribution: Click to open](https://appdistribution.firebase.dev/i/af28c1e36902e822)

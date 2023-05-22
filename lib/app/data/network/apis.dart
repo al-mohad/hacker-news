@@ -4,7 +4,7 @@ class Apis {
   static const String item = 'item/';
   static const String newStories = 'newstories.json';
   static const String bestStories = 'beststories.json';
-  static const String topStories = 'topstories .json';
+  static const String topStories = 'topstories.json';
   static const String storySample = 'item/8863.json';
   static const String commentSample = 'item/2921983.json';
   static const String askSample = 'item/121003.json';
