@@ -23,6 +23,7 @@ dependencies:
   flutter_animate: 4.1.1+1
   flutter: 
     sdk: flutter
+  firebase_core: ^2.13.0
 
 dev_dependencies: 
   flutter_lints: ^2.0.0
